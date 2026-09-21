@@ -26,7 +26,7 @@
   <a href="https://yunhaozhang.xyz/">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-yunhaozhang.xyz-6C63FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="个人主页" />
   </a>
-  <a href="mailto:yhzhang0313@gmail.com">
-    <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yhzhang0313%40gmail.com-5865F2?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="邮箱" />
+  <a href="mailto:yunhaozhang@smail.nju.edu.cn">
+    <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-yunhaozhang%40smail.nju.edu.cn-5865F2?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="邮箱" />
   </a>
 </p>
